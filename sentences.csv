@@ -84,14 +84,14 @@ deluxe,price,high
 fancy,price,high
 lavish,price,high
 costly,price,high
-don't care,price,na
-anything,price,na
-any,price,na
-whatever,price,na
-not important,price,na
-all kinds,price,na
-all sort,price,na
-doesn't matter,price,na
+don't care,price,any
+anything,price,any
+any,price,any
+whatever,price,any
+not important,price,any
+all kinds,price,any
+all sort,price,any
+doesn't matter,price,any
 poor,ranking,low
 low,ranking,low
 basic,ranking,low
@@ -132,11 +132,11 @@ best,ranking,high
 prestige,ranking,high
 deluxe,ranking,high
 competitive,ranking,high
-don't care,ranking,na
-anything,ranking,na
-any,ranking,na
-whatever,ranking,na
-not important,ranking,na
-all kinds,ranking,na
-all sort,ranking,na
-doesn't matter,ranking,na
+don't care,ranking,any
+anything,ranking,any
+any,ranking,any
+whatever,ranking,any
+not important,ranking,any
+all kinds,ranking,any
+all sort,ranking,any
+doesn't matter,ranking,any
