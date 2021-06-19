@@ -1,0 +1,4 @@
+sentence,intent_value,score
+I want a cheap place,low price,0.768553192
+I prefer an expensive restaurant,high price,0.551237811
+I want a place with many stars,high ranking,0.367749391
