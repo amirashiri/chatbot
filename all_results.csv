@@ -2,3 +2,7 @@ sentence,intent_value,score
 I want a cheap place,low price,0.768553192
 I prefer an expensive restaurant,high price,0.551237811
 I want a place with many stars,high ranking,0.367749391
+something with reasonable ranking,medium ranking,0.505520017
+prices so-so,medium price,0.438754606
+very fancy dining,high price,0.808942532
+spend as little as possible,low price,0.89066235
