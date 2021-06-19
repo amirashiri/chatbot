@@ -6,3 +6,5 @@ something with reasonable ranking,medium ranking,0.505520017
 prices so-so,medium price,0.438754606
 very fancy dining,high price,0.808942532
 spend as little as possible,low price,0.89066235
+any price level will do,medium price,0.543883178
+I don't really care about number of stars,any ranking,0.613346923
