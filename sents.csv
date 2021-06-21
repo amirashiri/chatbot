@@ -1,5 +1,5 @@
 sentence,intent,value,intent_value,intent_code,score,update_type,update_time
-cheap price,price,low,low price,0,,baseline,2021-06-21 09:36:43.013885
+cheap price,price,low,low price,0,,baseline,2021-06-02 09:36:43.013885
 cheap cost,price,low,low price,0,,baseline,2021-06-21 09:36:43.013885
 cheap amount,price,low,low price,0,,baseline,2021-06-21 09:36:43.013885
 cheap pay,price,low,low price,0,,baseline,2021-06-21 09:36:43.013885
