@@ -39,13 +39,6 @@ normal,price,medium
 acceptable,price,medium
 typical,price,medium
 usual,price,medium
-anything,price,medium
-any,price,medium
-whatever,price,medium
-not important,price,medium
-all kinds,price,medium
-all sort,price,medium
-doesn't matter,price,medium
 medium,price,medium
 mediocre,price,medium
 common,price,medium
@@ -58,7 +51,6 @@ neutral,price,medium
 general,price,medium
 regular,price,medium
 boilerplate,price,medium
-value for dollar,price,medium
 premium,price,high
 high,price,high
 gourmet,price,high
