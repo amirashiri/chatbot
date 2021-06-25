@@ -1,4 +1,51 @@
 intent,intent_code
+Vietnamese,3
+vietnam,3
+Caribbean,3
+Japanese,3
+Japan,3
+Chinese,3
+China,3
+American,3
+America,3
+North America,3
+Mexican,3
+Mexico,3
+Thai,3
+thailand,3
+Asian Fusion,3
+Asia,3
+Italian,3
+Italy,3
+Indian,3
+India,3
+Latin American,3
+Central America,3
+Latino,3
+French,3
+France,3
+Greek,3
+Greece,3
+Aegean,3
+Mediterranean,3
+Middle east,3
+South Europe,3
+Korean,3
+Korea,3
+Southern American,3
+Texas,3
+New Mexico,3
+rating,2
+rated,2
+ranking,2
+rank,2
+ranked,2
+star,2
+stars,2
+evaluated,2
+class,2
+level,2
+score,2
 price,1
 priced,1
 pricing,1
@@ -15,17 +62,6 @@ charge,1
 charged,1
 charges,1
 charging,1
-rating,2
-rated,2
-ranking,2
-rank,2
-ranked,2
-star,2
-stars,2
-evaluated,2
-class,2
-level,2
-score,2
 chicken,0
 hello,0
 morning,0
