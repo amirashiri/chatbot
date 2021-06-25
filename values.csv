@@ -1,4 +1,4 @@
-name,code,column
+ï»¿name,code,column
 Romantic,1301,romantic
 Intimate,1301,romantic
 Trendy,1302,trendy
@@ -11,7 +11,7 @@ Dinner,1204,dinner
 Supper,1204,dinner
 Fast Food,501,
 Cafe,502,
-Café,502,
+CafÃ©,502,
 Coffee place,502,
 Coffee and tea,502,
 Tea,502,
@@ -25,7 +25,7 @@ Sandwiches,504,
 Subway shop,504,
 Snack,504,
 Bakery,504,
-Pâtisserie,504,
+PÃ¢tisserie,504,
 Grocery,504,
 Bar,505,
 Sports bar,505,
