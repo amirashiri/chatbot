@@ -1,5 +1,19 @@
-intent,intent_code
-other,0
-price,1
-ranking,2
-kitchen_type,3
+intent,intent_code,intent_type
+other,0,none
+price,1,range
+ranking,2,range
+kitchen_type,4,value
+business_type,5,value
+date,6,none
+time,7,none
+veggy,10,value
+GoodForKids,11,value
+meal time,12,sub-value
+style,13,sub-value
+delivery,14,value
+WiFi,15,value
+alcohol,16,value
+outdoor,17,value
+latenight,18,value
+parking,19,value
+many_reviews,20,value
