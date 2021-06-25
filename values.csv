@@ -1,54 +1,58 @@
 ﻿name,code,column
-Romantic,1301,romantic
-Intimate,1301,romantic
-Trendy,1302,trendy
-Modern,1302,trendy
-Breakfast,1201,breakfast
-Morning meal,1201,breakfast
-Brunch,1202,brunch
-Lunch,1203,lunch
-Dinner,1204,dinner
-Supper,1204,dinner
-Fast Food,501,
-Cafe,502,
-Café,502,
-Coffee place,502,
-Coffee and tea,502,
-Tea,502,
-Cafeteria,502,
-Pizza,503,
+romantic,1301,romantic
+intimate,1301,romantic
+trendy,1302,trendy
+modern,1302,trendy
+breakfast,1201,breakfast
+morning meal,1201,breakfast
+morning,1201,breakfast
+brunch,1202,brunch
+lunch,1203,lunch
+noon,1203,lunch
+dinner,1204,dinner
+supper,1204,dinner
+evening,1204,dinner
+night,1204,dinner
+fast food,501,
+cafe,502,
+café,502,
+coffee place,502,
+coffee and tea,502,
+tea,502,
+cafeteria,502,
+pizza,503,
 pizzeria,503,
-Pizza place,503,
-Deli,504,
-Delicatessen,504,
-Sandwiches,504,
-Subway shop,504,
-Snack,504,
-Bakery,504,
-Pâtisserie,504,
-Grocery,504,
-Bar,505,
-Sports bar,505,
-Pub,505,
-Saloon,505,
-Beer,505,
-Wine,505,
-Beer bar,505,
-Dive bar,505,
-Gastropub,505,
-Beer and wine,505,
-Cocktail Bar,505,
-Lounges,505,
-Wine & Spirits,505,
-Spirits,505,
+pizza place,503,
+deli,504,
+delicatessen,504,
+sandwiches,504,
+subway shop,504,
+snack,504,
+bakery,504,
+pâtisserie,504,
+grocery,504,
+bar,505,
+sports bar,505,
+pub,505,
+saloon,505,
+beer,505,
+wine,505,
+beer bar,505,
+dive bar,505,
+gastropub,505,
+beer and wine,505,
+cocktail bar,505,
+lounges,505,
+wine & spirits,505,
+spirits,505,
 liquor,505,
-Burger,506,
-Hamburger,506,
+burger,506,
+hamburger,506,
 Mcdonalds,506,
-Diner,507,
-Eatery,507,
-Steakhouse,508,
-Grill place,508,
+diner,507,
+eatery,507,
+steakhouse,508,
+grill place,508,
 Vietnam,415,
 Vietnamese,415,
 Thai,414,
