@@ -4,9 +4,10 @@ lot,19
 parking,19
 parking lot,19
 outdoor,17
+outside seating,17
 outdoor seating,17
 Internet,15
-Online,15
+online,15
 wifi,15
 WiFi,15
 charming,13
@@ -113,7 +114,6 @@ away,0
 awesome,0
 back,0
 bad,0
-bar,0
 basic,0
 because,0
 believe,0
@@ -125,16 +125,13 @@ blue,0
 blur,0
 boilerplate,0
 bowl,0
-breakfast,0
 broom,0
-brunch,0
 busy,0
 came,0
 careful,0
 celebrity,0
 change,0
 check,0
-chicken,0
 clarify,0
 Cleveland,0
 come,0
@@ -149,16 +146,11 @@ definitely,0
 delicious,0
 delight,0
 different,0
-dine,0
-dining,0
-dinner,0
 disappointed,0
 dish,0
 dishes,0
 doesn't matter,0
 don't care,0
-drink,0
-drinks,0
 easy,0
 eat,0
 engaged,0
@@ -171,8 +163,6 @@ excellent,0
 expected,0
 expedition,0
 experience,0
-familiarity,0
-family,0
 fantastic,0
 fast,0
 favorite,0
@@ -182,8 +172,6 @@ find,0
 first,0
 flavor,0
 flower,0
-food,0
-fresh,0
 friend,0
 friendly,0
 full,0
@@ -228,7 +216,6 @@ lunch,0
 make,0
 manager,0
 many,0
-meal,0
 mean,0
 mediocre,0
 medium,0
@@ -258,7 +245,6 @@ open,0
 options,0
 order,0
 outside,0
-parking,0
 perfect,0
 philosophy,0
 place,0
@@ -270,12 +256,9 @@ really,0
 reasonable,0
 recommend,0
 regular,0
-restaurant,0
-restaurants,0
 right,0
 room,0
 said,0
-salad,0
 sale,0
 say,0
 seated,0
@@ -292,7 +275,6 @@ small,0
 someone ,0
 something,0
 so-so,0
-soup,0
 sources,0
 speak,0
 special,0
@@ -300,7 +282,6 @@ spicy,0
 spot,0
 state,0
 status,0
-steak,0
 still,0
 stop,0
 study,0
@@ -329,7 +310,6 @@ two,0
 typical,0
 understanding,0
 visit,0
-waiter,0
 want,0
 way,0
 well,0
