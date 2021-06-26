@@ -8,11 +8,9 @@ date,6,none
 time,7,none
 veggy,10,value
 GoodForKids,11,value
-meal time,12,sub-value
-style,13,sub-value
+romantic,13,value
 delivery,14,value
 WiFi,15,value
-alcohol,16,value
 outdoor,17,value
 latenight,18,value
 parking,19,value
