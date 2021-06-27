@@ -1,4 +1,4 @@
-Ôªøname,code,value_code
+name,code,value_code
 garage,19,0
 lot,19,0
 parking,19,0
@@ -24,7 +24,7 @@ veggy,10,0
 restaurant,5,500
 fast food,5,501
 cafe,5,502
-caf√©,5,502
+cafÈ,5,502
 coffee place,5,502
 coffee and tea,5,502
 tea,5,502
@@ -38,7 +38,7 @@ sandwiches,5,504
 subway shop,5,504
 snack,5,504
 bakery,5,505
-p√¢tisserie,5,505
+p‚tisserie,5,505
 grocery,5,505
 bar,5,506
 sports bar,5,506
