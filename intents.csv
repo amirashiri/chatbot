@@ -22,7 +22,6 @@ vegan,10,
 vegeterian,10,
 veggy,10,
 restaurant,5,500
-fast food,5,501
 cafe,5,502
 café,5,502
 coffee place,5,502
@@ -32,14 +31,6 @@ cafeteria,5,502
 pizza,5,503
 pizzeria,5,503
 pizza place,5,503
-deli,5,504
-delicatessen,5,504
-sandwiches,5,504
-subway shop,5,504
-snack,5,504
-bakery,5,505
-pâtisserie,5,505
-grocery,5,505
 bar,5,506
 sports bar,5,506
 pub,5,506
@@ -55,13 +46,6 @@ lounge,5,506
 wine & spirits,5,506
 spirits,5,506
 liquor,5,506
-burger,5,507
-hamburger,5,507
-Mcdonalds,5,507
-diner,5,508
-eatery,5,508
-steakhouse,5,509
-grill place,5,509
 Vietnam,4,401
 Vietnamese,4,401
 Thai,4,402
@@ -439,3 +423,8 @@ winter,0,
 wonderful,0,
 work,0,
 years,0,
+",",100,
+and,100,
+with,100,
+but,100,
+while,100,
