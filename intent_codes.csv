@@ -6,10 +6,10 @@ intent_code,intent_name,intent_type
 5,business_type,values
 6,day,
 7,time,
-8,numberOfPeople,bool
+8,people,bool
 10,veggy,bool
-11,GoodForKids,bool
+11,kids,bool
 13,romantic,bool
-15,WiFi,bool
+15,wifi,bool
 17,outdoor,bool
 19,parking,bool
