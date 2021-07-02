@@ -24,6 +24,7 @@ vegeterian,10,,
 veggy,10,,
 restaurant,5,500,restaurant
 cafe,5,502,cafe
+coffee,5,502,cafe
 café,5,502,cafe
 coffee place,5,502,cafe
 coffee and tea,5,502,cafe
@@ -447,7 +448,6 @@ nuts,-1,,
 almonds,-1,,
 bread,-1,,
 burrito,-1,,
-milk,-1,,
 egg,-1,,
 eggs,-1,,
 rice,-1,,
@@ -476,7 +476,6 @@ beef,-1,,
 spicy,-1,,
 steak,-1,,
 shrimp,-1,,
-cream,-1,,
 wings,-1,,
 pork,-1,,
 ham,-1,,
@@ -493,6 +492,7 @@ tortilla,-1,,
 empanadas,-1,,
 BBQ,-1,,
 barbecue,-1,,
+vanilla,-1,,
 chocolate,-1,,
 sausage,-1,,
 toppings,-1,,
