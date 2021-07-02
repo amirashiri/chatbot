@@ -14,3 +14,4 @@ intent_code,intent_name,intent_type
 17,outdoor,bool
 19,parking,bool
 -1,food,excluded
+-2,distance,excluded
