@@ -15,3 +15,12 @@ intent_code,intent_name,intent_type
 19,parking,bool
 -1,food,excluded
 -2,distance,excluded
+-3,service and atmosphere,excluded
+-4,restaurant view,excluded
+-5,payment methods,excluded
+-6,dietary and health info,excluded
+-7,smoking,excluded
+-8,pets,excluded
+-9,music and shows,excluded
+-10,promotions,excluded
+-11,accessibility ,excluded
