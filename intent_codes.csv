@@ -1,4 +1,4 @@
-﻿intent_code,intent_name,intent_desc,intent_type,similar
+intent_code,intent_name,intent_desc,intent_type,similar
 0,other,,,
 1,price,pricing,range,
 2,ranking,rates and reviews,range,
@@ -24,3 +24,4 @@
 -9,music,music and shows,excluded,"17, 5, 2, 13"
 -10,promotions,promotions,excluded,"1, 2"
 -11,accessibility ,accessibility ,excluded,"19, 17, 5"
+66,yes/no,,bool,
