@@ -1,9 +1,9 @@
-intent_code,intent_name,intent_desc,intent_type,similar
+ï»¿intent_code,intent_name,intent_desc,intent_type,similar
 0,other,,,
 1,price,pricing,range,
 2,ranking,rating and reviews,range,
-4,kitchen_type,"the kitchen type (American, Chinese…)",values,
-5,business_type,"the restaurant type (restaurant, Pizza, bar of café)",values,
+4,kitchen_type,"the kitchen type (American, Chineseâ€¦)",values,
+5,business_type,"the restaurant type (restaurant, Pizza, bar of cafÃ©)",values,
 6,day,reservation day,,
 7,time,reservation time,,
 8,people,number of people,bool,
