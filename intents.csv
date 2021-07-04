@@ -44,10 +44,10 @@ pub,5,506,bar,
 saloon,5,506,bar,
 beer,5,506,bar,1
 wine,5,506,bar,1
-beer bar,5,506,bar,
+beer bar,5,506,bar,1
 dive bar,5,506,bar,
 gastropub,5,506,bar,
-beer and wine,5,506,bar,
+beer and wine,5,506,bar,1
 cocktail bar,5,506,bar,
 lounge,5,506,bar,
 wine & spirits,5,506,bar,
@@ -59,11 +59,11 @@ alcoholic,5,506,bar,
 margarita,5,506,bar,
 martini,5,506,bar,
 mojito,5,506,bar,
-whiskeyÂ ,5,506,bar,
+whiskey,5,506,bar,1
 spritz,5,506,bar,
 brandy,5,506,bar,
 cognac,5,506,bar,
-rum,5,506,bar,
+rum,5,506,bar,1
 gin,5,506,bar,
 champagne,5,506,bar,
 Vietnamese,4,401,Vietnamese,1
