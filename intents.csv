@@ -217,14 +217,14 @@ korea,4,406,Korean,
 korean,4,406,Korean,
 Seoul,4,406,Korean,
 seoul,4,406,Korean,
-Japan,4,407,Japanese,
+Japan,4,407,Japanese,1
 Japanese,4,407,Japanese,1
 japan,4,407,Japanese,
 japanese,4,407,Japanese,
 Tokyo,4,407,Japanese,
 tokyo,4,407,Japanese,
 Italian,4,408,Italian,1
-Italy,4,408,Italian,
+Italy,4,408,Italian,1
 italian,4,408,Italian,
 italy,4,408,Italian,
 Florence,4,408,Italian,
@@ -239,7 +239,7 @@ napoli,4,408,Italian,
 napolitan,4,408,Italian,
 roman,4,408,Italian,
 rome,4,408,Italian,
-India,4,409,Indian,
+India,4,409,Indian,1
 Indian,4,409,Indian,1
 india,4,409,Indian,
 indian,4,409,Indian,
@@ -255,13 +255,13 @@ pakistan,4,409,Indian,
 pakistani,4,409,Indian,
 Aegean,4,410,Greece,
 Greece,4,410,Greece,1
-Greek,4,410,Greece,
+Greek,4,410,Greece,1
 aegean,4,410,Greek,
 greece,4,410,Greek,
 greek,4,410,Greek,
 Athens,4,410,Greek,
 athens,4,410,Greek,
-France,4,411,French,
+France,4,411,French,1
 French,4,411,French,1
 france,4,411,French,
 french,4,411,French,
@@ -269,7 +269,7 @@ Normandy,4,411,French,
 Paris,4,411,French,
 normandy,4,411,French,
 paris,4,411,French,
-China,4,412,Chinese,
+China,4,412,Chinese,1
 Chinese,4,412,Chinese,1
 china,4,412,Chinese,
 chinese,4,412,Chinese,
@@ -289,17 +289,17 @@ Jamaica,4,413,Caribbean,
 Jamaican,4,413,Caribbean,
 jamaica,4,413,Caribbean,
 jamaican,4,413,Caribbean,
-Asia,4,414,Asian Fusion,
-Asian Fusion,4,414,Asian Fusion,
+Asia,4,414,Asian Fusion,1
+Asian Fusion,4,414,Asian Fusion,1
 Asian,4,414,Asian Fusion,1
 asia,4,414,Aasian Fusion,
 asian fusion,4,414,Aasian Fusion,
 asian,4,414,Aasian Fusion,
-America,4,415,American,
+America,4,415,American,1
 American,4,415,American,1
 North America,4,415,American,
-USA,4,415,American,
-United States,4,415,American,
+USA,4,415,American,1
+United States,4,415,American,1
 america,4,415,American,
 american,4,415,American,
 north america,4,415,American,
