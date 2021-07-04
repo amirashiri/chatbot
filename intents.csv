@@ -1,4 +1,4 @@
-name,code,value_code,value_name,include
+﻿name,code,value_code,value_name,include
 garage,19,,,
 lot,19,,,
 parking,19,,,
@@ -27,7 +27,7 @@ veggy,10,,,
 restaurant,5,500,restaurant,1
 cafe,5,502,cafe,1
 coffee,5,502,cafe,1
-caf�,5,502,cafe,
+café,5,502,cafe,
 coffee place,5,502,cafe,
 coffee and tea,5,502,cafe,
 tea,5,502,cafe,
@@ -59,7 +59,7 @@ alcoholic,5,506,bar,
 margarita,5,506,bar,
 martini,5,506,bar,
 mojito,5,506,bar,
-whiskey ,5,506,bar,
+whiskeyÂ ,5,506,bar,
 spritz,5,506,bar,
 brandy,5,506,bar,
 cognac,5,506,bar,
