@@ -496,7 +496,6 @@ ask,0,,,1
 asked,0,,,1
 average,0,,,1
 awareness,0,,,1
-away,0,,,1
 awesome,0,,,1
 back,0,,,1
 bad,0,,,1
@@ -566,6 +565,7 @@ high,0,,,1
 home,0,,,1
 hot,0,,,1
 huge,0,,,1
+notes,0,,,1
 husband,0,,,1
 Im,0,,,1
 inside,0,,,1
@@ -803,6 +803,7 @@ km,-2,,,
 kilometer,-2,,,
 distant,-2,,,
 far-off,-2,,,
+away,-2,,,
 faraway,-2,,,
 nearby,-2,,,
 neighboring,-2,,,
