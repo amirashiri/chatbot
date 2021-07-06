@@ -3,6 +3,8 @@ garage,19,,,1
 lot,19,,,1
 parking,19,,,1
 parking lot,19,,,1
+parked,19,,,1
+park,19,,,1
 open-air,17,,,1
 outside,17,,,1
 outside seating,17,,,1
@@ -433,7 +435,6 @@ review,2,,,1
 quality,2,,,1
 score,2,,,1
 simple,2,,,1
-standard,2,,,1
 star,2,,,1
 stars,2,,,1
 upper class,2,,,1
