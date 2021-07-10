@@ -4,7 +4,7 @@ restaurant,intent,business_type
 sandwich,intent,business_type
 calories,intent,dietary
 far,intent,distance
-cheese,intent,food
+cheesesteak,intent,food
 steaks,intent,food
 extreme,degree,high
 much,degree,high
