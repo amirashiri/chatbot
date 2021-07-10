@@ -1,4 +1,4 @@
-﻿text,type,value
+﻿name,type,value
 Czech,intent,kitchen_type
 are,,
 bar,intent,kitchen_type
