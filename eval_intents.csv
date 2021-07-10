@@ -4,7 +4,7 @@ restaurant,intent,business_type
 sandwich,intent,business_type
 calories,intent,dietary
 far,intent,distance
-cheesesteak,intent,food
+cheese,intent,food
 steaks,intent,food
 extreme,degree,high
 much,degree,high
@@ -33,7 +33,7 @@ are,,
 bringing,,
 car,,
 city,intent,distance
-convinient,,
+convenient,,
 decent,,
 enjoy,,
 food,,
