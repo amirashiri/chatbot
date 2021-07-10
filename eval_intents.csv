@@ -19,6 +19,7 @@ park,intent,parking
 cat,intent,pets
 bargain,intent,price
 basic,intent,price
+basic,degree,low
 cost,intent,price
 pay,intent,price
 price,intent,price
@@ -31,7 +32,7 @@ landscape,intent,view
 are,,
 bringing,,
 car,,
-city,,
+city,intent,distance
 convinient,,
 decent,,
 enjoy,,
