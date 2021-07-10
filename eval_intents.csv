@@ -1,7 +1,7 @@
 ﻿text,type,value
-Czech,intent,kitchen__type
+Czech,intent,kitchen_type
 are,,
-bar,intent,kitchen__type
+bar,intent,kitchen_type
 bargain,intent,price
 bargain,degree,low
 basic,intent,price
@@ -28,7 +28,7 @@ if,,
 in,,
 is,,
 issue,,
-Italian,intent,kitchen__type
+Italian,intent,kitchen_type
 kids,intent,kids
 landscape,intent,view
 looking,,
